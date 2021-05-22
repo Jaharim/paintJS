@@ -25,13 +25,10 @@ Painting Board made with VanillaJS
 
 ## paintJS의 초기 화면
 
----
-
 <br/>
 
 <img src="https://user-images.githubusercontent.com/83650872/119225587-8003d280-bb3f-11eb-8773-ad72954137ec.png" width="650">
 
-<br/>
 <br/>
 
 - <img src="https://user-images.githubusercontent.com/83650872/119225051-80e73500-bb3c-11eb-8710-94efb5536a8e.png" align="center"/>　:　수평 스크롤을 이용해 그리기 모드의 브러쉬 굵기를 조절할 수 있다.
@@ -53,8 +50,6 @@ Painting Board made with VanillaJS
 
 ## 실제 사용 화면
 
----
-
 <br/>
 
 - FILL 모드에서 캔버스를 색칠
@@ -72,3 +67,5 @@ Painting Board made with VanillaJS
 - SAVE 버튼을 통해 그림을 저장했을 때
 
 <img src="https://user-images.githubusercontent.com/83650872/119225507-197eb480-bb3f-11eb-9c77-a36f9ef0343a.png" width="450"/>
+
+<br/>
